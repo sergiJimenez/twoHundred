@@ -8,6 +8,9 @@
                       \/_____/   \/_/\/_/ \/___/  \/_/\/_/ \/__,_ / \/_/ \/____/ \/__,_ /
 ```
 
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/sergiJimenez/twoHundred/blob/master/README.md)
+[![es](https://img.shields.io/badge/lang-es-yellow.svg)](https://github.com/sergiJimenez/twoHundred/blob/master/README.es.md)
+
 ## Descripción
 Este script de shell automatiza la ejecución repetida de pruebas para un proyecto Node.js utilizando npm. Está diseñado para ejecutar un conjunto de pruebas definidas en el proyecto repetidamente, con un número específico de iteraciones controlado por el usuario. Además, proporciona estadísticas sobre el éxito y el fracaso de las pruebas, así como el tiempo total de ejecución.
 
