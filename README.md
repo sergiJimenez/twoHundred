@@ -1,4 +1,12 @@
-# Two Hundred
+```md
+             ___    __  __                        __                    __     
+           /'___`\ /\ \/\ \                      /\ \                  /\ \    
+          /\_\ /\ \\ \ \_\ \   __  __    ___     \_\ \   _ __    __    \_\ \   
+          \/_/// /__\ \  _  \ /\ \/\ \ /' _ `\   /'_` \ /\`'__\/'__`\  /'_` \  
+             // /_\ \\ \ \ \ \\ \ \_\ \/\ \/\ \ /\ \L\ \\ \ \//\  __/ /\ \L\ \ 
+            /\______/ \ \_\ \_\\ \____/\ \_\ \_\\ \___,_\\ \_\\ \____\\ \___,_\
+            \/_____/   \/_/\/_/ \/___/  \/_/\/_/ \/__,_ / \/_/ \/____/ \/__,_ /
+```
 
 ## Descripción
 Este script de shell automatiza la ejecución repetida de pruebas para un proyecto Node.js utilizando npm. Está diseñado para ejecutar un conjunto de pruebas definidas en el proyecto repetidamente, con un número específico de iteraciones controlado por el usuario. Además, proporciona estadísticas sobre el éxito y el fracaso de las pruebas, así como el tiempo total de ejecución.
