@@ -26,7 +26,7 @@ if [ $failure -eq 1 ]; then
 	echo "Tests failure: $failure."
 elif [ $success -eq $n ]; then
 	echo "Tests correct: $success."
-	powershell -c "(New-Object Media.SoundPlayer 'C:\Users\sergiopj\Documents\bash\twoHundred\R2D2.wav').PlaySync()" #Change the path of the sound that you would be like notificated when all process has done. Or delete this line if you won't be notificated
+	powershell -c "(New-Object Media.SoundPlayer 'C:\Users\').PlaySync()" #Change the path of the sound that you would be like notificated when all process has done. Or delete this line if you won't be notificated
 	start ../coverage/index.html
 fi
 
